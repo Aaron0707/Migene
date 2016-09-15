@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EBDD817-BA83-44B4-A2ED-5BCEA158F662</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MiGene</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D84870B4B1F280C17A1CBDEEC355323A085E2A3C</key>
+		<string>115.29.242.13:yanglong/migene.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MiGene.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D84870B4B1F280C17A1CBDEEC355323A085E2A3C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>115.29.242.13:yanglong/migene.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D84870B4B1F280C17A1CBDEEC355323A085E2A3C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D84870B4B1F280C17A1CBDEEC355323A085E2A3C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MiGene</string>
+		</dict>
+	</array>
+</dict>
+</plist>
